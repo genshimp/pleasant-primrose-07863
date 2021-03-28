@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:title'
       value: Сайт об игре Genshin Impact
     - name: 'twitter:description'
-      value: The preview of the Fjord theme
+      value: Сайт об игре 
     - name: 'twitter:image'
       value: images/home.jpg
       relativeUrl: true
