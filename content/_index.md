@@ -3,7 +3,7 @@ title: Главная
 has_more_link: true
 more_link_text: Читать далее
 seo:
-  title: Stackbit Fjord Theme
+  title: tackbit Fjord ThemeS
   description: The preview of the Fjord theme
   extra:
     - name: 'og:type'
