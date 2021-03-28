@@ -1,7 +1,7 @@
 title: Блог о Genshin Impact
 baseURL: /
 params:
-  palette: yellow
+  palette: blue
   header:
     title: Fjord
     tagline: Блог о Genshin Impact. Гайды и прохождения
