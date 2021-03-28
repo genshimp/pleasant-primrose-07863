@@ -13,7 +13,7 @@ seo:
       value: Сайт об игре Genshin Impact
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fjord theme
+      value: Сайт об игре 
       keyName: property
     - name: 'og:image'
       value: images/home.jpg
