@@ -40,7 +40,7 @@ params:
         url: 'https://youtube.com'
         style: icon
         icon_class: youtube
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
   footer: {}
