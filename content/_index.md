@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Главная
 has_more_link: true
 more_link_text: Keep reading
 seo:
