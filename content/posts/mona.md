@@ -11,7 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
-subtitle: О
+subtitle: 'Одна из самых эффективных и красивых девочек в '
 ---
 ## Lorem ipsum
 
