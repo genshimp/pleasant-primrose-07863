@@ -9,7 +9,7 @@ excerpt: >-
 hide_header: false
 seo:
   title: Гайд на Мону Genshin Impact
-  description: ''
+  description: 'Сборка, артефакты, оружие, роль в игре'
   robots: []
   extra: []
   type: stackbit_page_meta
