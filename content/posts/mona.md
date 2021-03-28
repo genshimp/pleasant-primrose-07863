@@ -1,5 +1,5 @@
 ---
-title: 'Гайд на Мону '
+title: 'Гайд на Мону Genshin '
 subtitle: lorem-ipsum
 date: '2021-03-28'
 thumb_img_alt: lorem-ipsum
