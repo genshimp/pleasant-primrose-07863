@@ -8,7 +8,7 @@ excerpt: >-
   и её эффективности в бою. 
 hide_header: false
 seo:
-  title: ''
+  title: Гайд на Мону Genshin Impact
   description: ''
   robots: []
   extra: []
