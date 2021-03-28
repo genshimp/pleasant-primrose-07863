@@ -8,7 +8,7 @@ excerpt: >-
   и её эффективности в бою. 
 hide_header: false
 seo:
-  title: Гайд на Мону Genshin Impact
+  title: Гайд на Мону Genshin Impact. Лучшие билды для урона
   description: 'Сборка, артефакты, оружие, роль в игре'
   robots: []
   extra: []
