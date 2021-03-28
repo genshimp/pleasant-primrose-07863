@@ -17,9 +17,18 @@ layout: post
 thumb_img_path: images/incredible-coriander.jpg
 content_img_path: images/incredible-coriander.jpg
 ---
-## Lorem ipsum
+## Мона - одна из самых красивых и сильных девочек в игре Genshin Impact
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+![](/images/incredible-coriander.jpg)
 
-- Lorem ipsum
-- dolor sit amet
+Использовать Мону на поле боя можно как **Керри** и **Семикери**, то есть **Саппорт Дэмэдж диллер**. Характеристики артефактов - одна из важнейших частей силы Моны и её эффективности в бою. Вот самые основные характеристики, которые хотлось бы в идеале иметь на артефактах:
+
+*   Крит урон
+
+*   Крит Шанс
+
+*   Восстановление энергии
+
+*   Сила атаки
+
+*   Бонус Гидро урона. 
