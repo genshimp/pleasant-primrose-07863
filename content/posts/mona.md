@@ -1,6 +1,5 @@
 ---
 title: Гайд на Мону Genshin Impact
-subtitle: J
 date: '2021-03-28'
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
