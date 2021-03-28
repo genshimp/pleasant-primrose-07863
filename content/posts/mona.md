@@ -15,7 +15,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_img_path: images/incredible-coriander.jpg
-content_img_path: images/incredible-coriander.jpg
+content_img_path: images/photo_2021-03-28_16-37-01.jpg
 ---
 ## Мона - одна из самых красивых и сильных девочек в игре Genshin Impact
 
