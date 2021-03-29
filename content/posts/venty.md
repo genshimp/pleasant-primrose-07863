@@ -1,5 +1,5 @@
 ---
-title: 'Гайд на Венти '
+title: Гайд на Венти Genshin Impact
 subtitle: lorem-ipsum
 date: '2021-03-29'
 thumb_img_alt: lorem-ipsum
