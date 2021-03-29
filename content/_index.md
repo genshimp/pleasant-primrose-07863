@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:description'
       value: Сайт об игре Genshin Impact
     - name: 'twitter:image'
-      value: images/home.jpg
+      value: /images/incredible-coriander.jpg
       relativeUrl: true
 layout: home
 ---
