@@ -26,8 +26,7 @@ seo:
     - name: 'twitter:description'
       value: Сайт об игре Genshin Impact
     - name: 'twitter:image'
-      value:       keyName: property
-
+      value: images/home.jpg
       relativeUrl: true
 layout: home
 ---
