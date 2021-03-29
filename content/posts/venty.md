@@ -1,6 +1,6 @@
 ---
 title: Гайд на Венти Genshin Impact
-subtitle: lorem-ipsum
+subtitle: Венти - один из лучших персонажей в игре. Саппорт первого эшелона
 date: '2021-03-29'
 thumb_img_alt: Venty
 excerpt: Венти - один из лучших персонажей в игре
