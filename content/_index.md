@@ -3,7 +3,7 @@ title: Главная
 has_more_link: true
 more_link_text: Читать далее
 seo:
-  title: Блог о Genshin Impact 
+  title: Блог о Genshin Impact
   description: Сайт об игре Genshin Impact
   extra:
     - name: 'og:type'
@@ -16,7 +16,7 @@ seo:
       value: Сайт об игре Genshin Impact
       keyName: property
     - name: 'og:image'
-      value: images/home.jpg
+      value: /images/incredible-coriander.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
