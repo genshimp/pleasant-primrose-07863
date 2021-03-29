@@ -1,5 +1,5 @@
 ---
-title: Гайд
+title: 'Гайд на '
 subtitle: lorem-ipsum
 date: '2021-03-29'
 thumb_img_alt: lorem-ipsum
