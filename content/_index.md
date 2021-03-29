@@ -16,7 +16,7 @@ seo:
       value: Сайт об игре Genshin Impact
       keyName: property
     - name: 'og:image'
-      value: images/home.jpg
+      value: /images/incredible-coriander.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
