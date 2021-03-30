@@ -42,4 +42,4 @@ layout: page
 
 [Смотреть гайд](https://pleasant-primrose-07863.netlify.app/posts/venty/)
 
-
+---
