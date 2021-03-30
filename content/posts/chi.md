@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_img_path: images/photo_2021-03-28_16-37-01 (3).jpg
 ---
 ## Lorem ipsum
 
