@@ -16,6 +16,7 @@ params:
       - label: Гайды
         url: /about
         style: link
+        
       - label: Мои контакты
         url: /contact
         style: link
