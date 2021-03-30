@@ -36,10 +36,12 @@ layout: page
 
 [Смотреть гайд](https://pleasant-primrose-07863.netlify.app/posts/mona/)
 
----
+***
 
-# [Венти (Venty)![](/images/marvelous-spinach.jpg)](https://pleasant-primrose-07863.netlify.app/posts/venty/)
+[Венти (Venty)](https://pleasant-primrose-07863.netlify.app/posts/venty/)
+
+# ![](/images/marvelous-spinach.jpg)
 
 [Смотреть гайд](https://pleasant-primrose-07863.netlify.app/posts/venty/)
 
----
+***
