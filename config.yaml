@@ -25,6 +25,7 @@ params:
         new_window: false
         no_follow: false
         type: action
+        label: Новости
     has_social: true
     social_links:
       - label: Twitter
