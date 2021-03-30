@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'lorem-ipsumГайд на '
 subtitle: lorem-ipsum
 date: '2021-03-30'
 thumb_img_alt: lorem-ipsum
