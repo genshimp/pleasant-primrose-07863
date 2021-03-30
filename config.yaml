@@ -19,7 +19,6 @@ params:
       - label: Мои контакты
         url: /contact
         style: link
-        type: action
         label: Новости
         url: /news
     has_social: true
