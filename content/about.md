@@ -3,7 +3,7 @@ title: Гайды Genshin Impact
 subtitle: На этой странице вы найдёте гайды на персонажей Genshin Impact
 img_path: images/photo_2021-03-28_16-36-58.jpg
 seo:
-  title: Гайды 
+  title: Гайды Genshin Impact
   description: A page about me and my work
   extra:
     - name: 'og:type'
