@@ -19,9 +19,6 @@ params:
       - label: Новости
         url: /news
         style: link
-      - label: Мои контакты
-        url: /contact
-        style: link
     has_social: true
     social_links:
       - label: Twitter
