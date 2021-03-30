@@ -20,7 +20,7 @@ params:
       - label: Мои контакты
         url: /contact
         style: link
-     has_social: true
+        has_social: true
     social_links:
       - label: Twitter
         url: 'https://twitter.com/'
