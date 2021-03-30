@@ -2,7 +2,7 @@
 title: Гайд на Ци Ци Genshin Impact
 subtitle: lorem-ipsum
 date: '2021-03-30'
-thumb_img_alt: lorem-ipsum
+thumb_img_alt: 'Ци Ци '
 excerpt: lorem-ipsum
 hide_header: false
 seo:
