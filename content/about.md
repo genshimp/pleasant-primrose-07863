@@ -41,3 +41,5 @@ layout: page
 # [Венти (Venty)![](/images/marvelous-spinach.jpg)](https://pleasant-primrose-07863.netlify.app/posts/venty/)
 
 [Смотреть гайд](https://pleasant-primrose-07863.netlify.app/posts/venty/)
+
+
