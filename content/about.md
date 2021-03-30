@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:description'
       value: На этой странице вы найдёте гайды на персонажей Genshin Impact
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: images/photo_2021-03-28_16-36-58.jpg
       relativeUrl: true
 layout: page
 ---
