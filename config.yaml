@@ -19,8 +19,6 @@ params:
       - label: Мои контакты
         url: /contact
         style: link
-        new_window: false
-        no_follow: false
         type: action
         label: Новости
         url: /news
