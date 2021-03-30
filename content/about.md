@@ -30,4 +30,6 @@ seo:
       relativeUrl: true
 layout: page
 ---
-**
+# Мона (Mona) 
+
+![](/images/incredible-coriander.jpg)Смотреть гайд
