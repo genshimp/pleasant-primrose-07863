@@ -4,7 +4,7 @@ params:
   palette: blue
   header:
     title: Genshin Impact Blog
-    tagline: 'Блог о Genshin Impact. Гайды, и прохождения'
+    tagline: 'Блог о Genshin Impact. Гайды,новости  и прохождения'
     logo_img: images/zzz.png
     logo_img_alt: Fjord Logo
     background_img: images/incredible-coriander.jpg
