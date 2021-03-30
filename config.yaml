@@ -18,6 +18,7 @@ params:
         style: link
         label: Новости
         url: /news
+        
       - label: Мои контакты
         url: /contact
         style: link
