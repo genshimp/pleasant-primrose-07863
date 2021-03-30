@@ -17,7 +17,7 @@ layout: post
 thumb_img_path: images/super-robin.jpg
 content_img_path: images/photo_2021-03-28_16-37-01.jpg
 ---
-## Мона - одна из самых красивых и сильных девочек в игре Genshin Impact
+#### Мона - одна из самых красивых и сильных девочек в игре Genshin Impact
 
 ![](/images/incredible-coriander.jpg)
 
@@ -31,4 +31,4 @@ content_img_path: images/photo_2021-03-28_16-37-01.jpg
 
 *   Сила атаки
 
-*   Бонус Гидро урона. 
+*   Бонус Гидро урона.
