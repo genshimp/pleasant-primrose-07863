@@ -10,7 +10,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Me
+      value: На этой странице вы найдёте гайды на персонажей Genshin Impact
       keyName: property
     - name: 'og:description'
       value: На этой странице вы найдёте гайды на персонажей Genshin Impact
