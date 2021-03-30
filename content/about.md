@@ -32,4 +32,4 @@ layout: page
 ---
 # [Мона (Mona)](https://pleasant-primrose-07863.netlify.app/posts/mona/)
 
-## ![](/images/incredible-coriander.jpg)[Смотреть гайд](https://pleasant-primrose-07863.netlify.app/posts/mona/)
+#### ![](/images/incredible-coriander.jpg)[Смотреть гайд](https://pleasant-primrose-07863.netlify.app/posts/mona/)
