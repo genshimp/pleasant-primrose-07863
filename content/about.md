@@ -16,7 +16,7 @@ seo:
       value: На этой странице вы найдёте гайды на персонажей Genshin Impact
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: images/photo_2021-03-28_16-36-58.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
