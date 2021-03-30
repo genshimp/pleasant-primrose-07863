@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:title'
       value: About Me
     - name: 'twitter:description'
-      value: A page about me and my work
+      value: На этой странице вы найдёте гайды на персонажей Genshin Impact
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true
