@@ -3,7 +3,7 @@ baseURL: /
 params:
   palette: blue
   header:
-    title: Genshin
+    title: Genshin 
     tagline: Блог о Genshin Impact. Гайды и прохождения
     logo_img: images/oceanic-steel.png
     logo_img_alt: Fjord Logo
