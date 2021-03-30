@@ -16,7 +16,7 @@ params:
       - label: Гайды
         url: /about
         style: link
-       label: Новости
+      - label: Новости
         url: /news
         style: link
       - label: Мои контакты
