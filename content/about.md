@@ -1,6 +1,6 @@
 ---
 title: Гайды Genshin Impact
-subtitle: This is a short page about me and my work
+subtitle: На этой странице вы найдёте гайды на персонажей Genshin Impact
 img_path: images/photo_2021-03-28_16-36-58.jpg
 seo:
   title: About Me
