@@ -15,5 +15,4 @@ layout: post
 thumb_img_path: images/photo_2021-03-29_08-04-43 (2).jpg
 content_img_path: images/royal-mahogany.jpg
 ---
-## Венти - один из лучших персонажей в игре Genshin Impact. 
-
+##### Венти - один из лучших персонажей в игре Genshin Impact.
