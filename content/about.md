@@ -34,4 +34,9 @@ layout: page
 
 #### ![](/images/incredible-coriander.jpg)
 
-[Смотреть гайд](https://pleasant-primrose-07863.netlify.app/posts/mona/) 
+[Смотреть гайд](https://pleasant-primrose-07863.netlify.app/posts/mona/)
+
+
+
+\---
+
