@@ -19,8 +19,7 @@ params:
       - label: Мои контакты
         url: /contact
         style: link
-      - url: '#'
-        style: link
+      - style: link
         icon_class: dev
         new_window: false
         no_follow: false
